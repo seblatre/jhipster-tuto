@@ -1,3 +1,5 @@
+#!/bin/bash
+
 nvm install stable
 npm install -g npm
 npm install -g generator-jhipster
